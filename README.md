@@ -1,6 +1,6 @@
 # SimplePhoneBookJ2ME
 Phonebook made for Android.
-ported by ChatGPT (and some human work) :)from Harel Yinon's [original project](https://github.com/HarelYinon/SimplePhoneBookJ2ME), that written in J2ME (for old phones).
+ported by ChatGPT {and some human work :)} from Harel Yinon's [original project](https://github.com/HarelYinon/SimplePhoneBookJ2ME), that written in J2ME (for old phones).
 I hope to add more features in the future.
 # TODO list
 - Add contact from this app to phone

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">אלפון מדברה כעדן תשפג</string>
+    <string name="search_hint">הכנס שם לחיפוש</string>
+    <string name="search_button_label">חיפוש</string>
+    <string name="credit">פותח על ידי הראל ינון ואשי ורד</string>
+</resources>
